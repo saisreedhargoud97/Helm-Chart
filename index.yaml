@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  SreeLekha:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-02-09T05:46:03.280899205Z"
+    description: A Helm chart for Kubernetes
+    digest: 7bdfd32208ac63bbb3c17c09f205cc13026388da0a191e77aed587c9b75eadab
+    name: SreeLekha
+    type: application
+    urls:
+    - https://saisreedhargoud97.github.io/Helm-Chart/SreeLekha-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-02-09T05:46:03.280388546Z"
